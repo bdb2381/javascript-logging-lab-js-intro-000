@@ -1,1 +1,2 @@
-console.error("HELP ME NOW! PLEASE.") 
+console.error("HELP ME NOW! PLEASE.")
+console.log()
